@@ -1,0 +1,7 @@
+CRITICAL:root:critical
+ERROR:root:Error
+CRITICAL:root:critical
+ERROR:root:Error
+WARNING:root:warning
+INFO:root:got 2 numbers successfully from users.
+ERROR:root:Divide by zero encountered while dividing the 2 numbers
