@@ -6,5 +6,3 @@ except ZeroDivisionError:
     print("division by zero is not allowed")
     print("please enter some non zero number")
 print("after exception block")
-finally:
-print("inside finally block")
